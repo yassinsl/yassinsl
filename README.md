@@ -1,4 +1,4 @@
-Welcome! 👋
+HELLO! 👋
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <h3 align="center">
   Welcome to YASSINE LAHSSINI  profile!
@@ -50,7 +50,4 @@ How to stay motivated and keep learning.
 LinkedIn
 Email: yassinlahssin18@gmail.com
 Instagram : https://www.instagram.com/slawi_hs/
-
-😄 Pronouns:
-She/Her 
 
