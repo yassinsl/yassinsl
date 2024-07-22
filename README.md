@@ -1,5 +1,5 @@
 <div align="center" fit>
-  <img src="https://www.pinterest.com/pin/597712181817751917/" />
+  <img src="https://www.pinterest.com/pin/635359459960053243/">
 </div>
 
 <h3 align="center">
@@ -15,7 +15,7 @@ I'm a Software Engineering student at ALX, focused on building a strong foundati
 
 ### 🌐 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/slawi_hs/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassin-lahssini-11567627b/ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassin-lahssini-11567627b/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/YassinLahssini)
 
 ### 💻 Tech Stack:
@@ -49,7 +49,5 @@ I'm a Software Engineering student at ALX, focused on building a strong foundati
 - Web development best practices.
 - How to stay motivated and keep learning.
 
-📫 **How to Reach Me:**
-- Email: yassinlahssini18@gmail.com
 ⚡ **Fun Fact:**
 I'm a coffee enthusiast and my perfect day starts and ends with a cup of coffee.
