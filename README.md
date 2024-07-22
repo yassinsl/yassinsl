@@ -1,7 +1,3 @@
-<div align="center" fit>
-  <img src="https://www.pinterest.com/pin/635359459960053243/">
-</div>
-
 <h3 align="center">
   Welcome to Yassine Lahssini's Profile!
 </h3>
@@ -10,6 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DA5D0EE4&width=435&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Software+Engineering+Student;Always+learning+and+exploring+new+technologies" alt="Typing SVG" />
 </p> 
 
+<div align="center" fit>
+  <img src="https://www.pinterest.com/pin/597712181817751917/" />
+</div>
 ### 💫 About Me:
 I'm a Software Engineering student at ALX, focused on building a strong foundation in software development. I'm also a pooler at 1337. I love everything related to UI/UX and bringing ideas to life using a variety of technologies. I'm a self-motivated, passionate, and hardworking coder, here to build positive relationships and find creative solutions to complex problems. Feel free to reach out to me via my socials. 😇
 
