@@ -7,8 +7,9 @@
 </p> 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0e0cfecb-2182-46c0-86e2-3f5a2e4d712c" alt="Your Image Description" width="600"/>
+  <img src="https://github.com/user-attachments/assets/b912c499-8c1d-49a8-9797-7247d76d6c47" alt="Wallpaper 4K Linux Gallery" width="600"/>
 </div>
+
 ### 💫 About Me:
 I'm a Software Engineering student at ALX, focused on building a strong foundation in software development. I'm also a pooler at 1337. I love everything related to UI/UX and bringing ideas to life using a variety of technologies. I'm a self-motivated, passionate, and hardworking coder, here to build positive relationships and find creative solutions to complex problems. Feel free to reach out to me via my socials. 😇
 
