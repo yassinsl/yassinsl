@@ -40,14 +40,16 @@ I'm a Software Engineering student at ALX, focused on building a strong foundati
 👯 **Looking to Collaborate On:**
 - Studying memory management and reviewing basic programming (kernel, shell, etc.).
 - Solving advanced exercises on platforms like LeetCode.
+-
 
 🤔 **Looking for Help With:**
 - Understanding complex algorithms and data structures.
 - Improving my problem-solving skills in competitive programming.
+- I study newvim and work on my Debian system.
 
 💬 **Ask Me About:**
 - Web development best practices.
 - How to stay motivated and keep learning.
 
 ⚡ **Fun Fact:**
-I'm a coffee enthusiast and my perfect day starts and ends with a cup of coffee.
+- I'm a coffee enthusiast and my perfect day starts and ends with a cup of coffee.
