@@ -24,6 +24,9 @@ I'm a Software Engineering student at ALX, focused on building a strong foundati
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 
 ### 📊 GitHub Stats:
 <p align="left">
@@ -40,12 +43,11 @@ I'm a Software Engineering student at ALX, focused on building a strong foundati
 👯 **Looking to Collaborate On:**
 - Studying memory management and reviewing basic programming (kernel, shell, etc.).
 - Solving advanced exercises on platforms like LeetCode.
--
 
 🤔 **Looking for Help With:**
 - Understanding complex algorithms and data structures.
 - Improving my problem-solving skills in competitive programming.
-- I study newvim and work on my Debian system.
+- I study Neovim and work on my Debian system.
 
 💬 **Ask Me About:**
 - Web development best practices.
@@ -53,3 +55,4 @@ I'm a Software Engineering student at ALX, focused on building a strong foundati
 
 ⚡ **Fun Fact:**
 - I'm a coffee enthusiast and my perfect day starts and ends with a cup of coffee.
+
