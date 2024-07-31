@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0fefd4fd-bad6-4e29-9564-a0ca4dfd4b7e" alt="Animated GIF">
+  <img src="https://github.com/user-attachments/assets/a9bea43f-9e28-4f40-934e-04c129298751" alt="Animated GIF">
 </div>
 
 ### 💫 About Me:
@@ -29,30 +29,31 @@ I'm a Software Engineering student at ALX, focused on building a strong foundati
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 
 ### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinsl&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most used languages" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassinsl&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
+   <a href="#" target="_blank">
+      <img src="/generated/overview.svg" target="_blank">
+      <img src="/generated/languages.svg" target="_blank">
+   </a>
+</div>
 <br>
+
 🔭 **Currently Working On:**
-- Building projects to enhance my skills in web development.
-- Studying C programming language and data structures.
+- Developing projects to improve my web development skills.
+- Delving deeper into C programming language and data structures.
 
 👯 **Looking to Collaborate On:**
-- Studying memory management and reviewing basic programming (kernel, shell, etc.).
-- Solving advanced exercises on platforms like LeetCode.
+- Exploring memory management and core programming concepts (kernel, shell, etc.).
+- Tackling advanced challenges on platforms like LeetCode.
 
-🤔 **Looking for Help With:**
-- Understanding complex algorithms and data structures.
-- Improving my problem-solving skills in competitive programming.
-- I study Neovim and work on my Debian system.
+🤔 **Seeking Help With:**
+- Grasping complex algorithms and data structures.
+- Enhancing my problem-solving abilities in competitive programming.
+- Navigating through Neovim and optimizing my Debian system.
 
 💬 **Ask Me About:**
-- Web development best practices.
-- How to stay motivated and keep learning.
+- Best practices in web development.
+- Tips on staying motivated and continuously learning.
 
 ⚡ **Fun Fact:**
-- I'm a coffee enthusiast and my perfect day starts and ends with a cup of coffee.
+- I'm a coffee enthusiast, and my perfect day starts and ends with a cup of coffee.
 
