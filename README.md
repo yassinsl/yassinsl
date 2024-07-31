@@ -7,9 +7,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/user-attachments/assets/c270b94e-aa92-43ee-96e9-12ed8f4798c3">
-    <img src="https://via.placeholder.com/600x400.png?text=Click+to+watch+the+video" alt="Click to watch the video">
-  </a>
+  <img src="https://github.com/user-attachments/assets/0fefd4fd-bad6-4e29-9564-a0ca4dfd4b7e" alt="Animated GIF">
 </div>
 
 ### 💫 About Me:
