@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a9bea43f-9e28-4f40-934e-04c129298751" alt="Animated GIF" style="width: 80%; border: 2px solid black; padding: 10px;">
+  <img src="https://user-images.githubusercontent.com/141282522/353804445-a9bea43f-9e28-4f40-934e-04c129298751.gif" alt="Animated GIF" style="width: 80%; border: 2px solid black; padding: 10px;">
 </div>
 
 ### 💫 **About Me:**
