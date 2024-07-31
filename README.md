@@ -27,33 +27,37 @@ I'm a Software Engineering student at ALX, focused on building a strong foundati
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vi](https://img.shields.io/badge/-Vi-019733?style=flat-square&logo=vim&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### 📊 GitHub Stats:
-<div align="center">
-   <a href="#" target="_blank">
-      <img src="/generated/overview.svg" target="_blank">
-      <img src="/generated/languages.svg" target="_blank">
-   </a>
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinsl&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most used languages" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yassinsl&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 <br>
 
-🔭 **Currently Working On:**
+### 🔭 Currently Working On:
 - Building projects to enhance my skills in web development.
 - Studying C programming language and data structures.
 
-👯 **Looking to Collaborate On:**
+### 👯 Looking to Collaborate On:
 - Studying memory management and reviewing basic programming (kernel, shell, etc.).
 - Solving advanced exercises on platforms like LeetCode.
 
-🤔 **Looking for Help With:**
+### 🤔 Looking for Help With:
 - Understanding complex algorithms and data structures.
 - Improving my problem-solving skills in competitive programming.
 - I study Neovim and work on my Debian system.
 
-💬 **Ask Me About:**
+### 💬 Ask Me About:
 - Web development best practices.
 - How to stay motivated and keep learning.
 
-⚡ **Fun Fact:**
+### ⚡ Fun Fact:
 - I'm a coffee enthusiast and my perfect day starts and ends with a cup of coffee.
 
