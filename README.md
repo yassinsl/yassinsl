@@ -4,10 +4,13 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DA5D0EE4&width=435&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Software+Engineering+Student;Always+learning+and+exploring+new+technologies" alt="Typing SVG" />
-</p> 
+</p>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b912c499-8c1d-49a8-9797-7247d76d6c47" alt="Wallpaper 4K Linux Gallery" width="600"/>
+  <video width="600" controls>
+    <source src="https://github.com/user-attachments/assets/becd4b18-d961-448d-8272-d8a848f1ec56" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ### 💫 About Me:
