@@ -7,16 +7,24 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a9bea43f-9e28-4f40-934e-04c129298751" alt="Animated GIF" style="border: 2px solid black; padding: 10px;">
+  <img src="https://github.com/user-attachments/assets/a9bea43f-9e28-4f40-934e-04c129298751" alt="Animated GIF" style="width: 80%; border: 2px solid black; padding: 10px;">
 </div>
 
 ### 💫 **About Me:**
 I'm a Software Engineering student at ALX, focused on building a strong foundation in software development. I'm also a pooler at 1337. I love everything related to UI/UX and bringing ideas to life using a variety of technologies. I'm a self-motivated, passionate, and hardworking coder, here to build positive relationships and find creative solutions to complex problems. Feel free to reach out to me via my socials. 😇
 
 ### 🌐 **Connect with Me:**
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/slawi_hs/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassin-lahssini-11567627b/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/YassinLahssini)
+<div align="center">
+  <a href="https://www.instagram.com/slawi_hs/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/yassin-lahssini-11567627b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/YassinLahssini" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
+  </a>
+</div>
 
 ### 💻 **Tech Stack:**
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -30,10 +38,10 @@ I'm a Software Engineering student at ALX, focused on building a strong foundati
 
 ### 📊 **GitHub Stats:**
 <div align="center">
-   <a href="#" target="_blank">
-      <img src="/generated/overview.svg" target="_blank">
-      <img src="/generated/languages.svg" target="_blank">
-   </a>
+  <a href="#" target="_blank">
+    <img src="/generated/overview.svg" target="_blank">
+    <img src="/generated/languages.svg" target="_blank">
+  </a>
 </div>
 <br>
 
