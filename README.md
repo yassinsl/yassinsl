@@ -14,7 +14,7 @@
 I'm a Software Engineering student at ALX, focused on building a strong foundation in software development. I'm also a pooler at 1337. I love everything related to UI/UX and bringing ideas to life using a variety of technologies. I'm a self-motivated, passionate, and hardworking coder, here to build positive relationships and find creative solutions to complex problems. Feel free to reach out to me via my socials. 😇
 
 ### 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/slawi_hs/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rabbit_yss/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassin-lahssini-11567627b/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/YassinLahssini)
 
